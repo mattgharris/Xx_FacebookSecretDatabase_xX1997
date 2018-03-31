@@ -1,10 +1,12 @@
 # Xx_FacebookSecretDatabase_xX1997
 Only available for Mark Zucherberg 
 
+To pull:
 Every 1/2 hr, please update local files wrt the github by - 
 `git pull` to update changes made from github (another user) in local folder
 Now check your local files to see changes
 
+To push:
 After pulling, upload your changes wrt the github by - 
 `git status` to check modification on the local folder
 `git add <file name>`to update the changed files to github
